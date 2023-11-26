@@ -1,4 +1,5 @@
 # AUTOMATIC-CURRENCY-DATA-SCRAPER-using-aws
+![Architecture](https://s3.ap-northeast-1.amazonaws.com/motulaal.io/Crypto+share+monitor/architecture.png)
 
 ## Table of Contents
 
